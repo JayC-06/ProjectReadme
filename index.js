@@ -38,7 +38,7 @@ const questions = [
             type:'list',
             name:'license',
             Message:'Please select which license is required.',
-            Choices: ['MIT License', 'Apache License 2.0', 'BSD-2-Clause', 'MPL-2.0']
+            choices: ['MIT License', 'Apache License 2.0', 'BSD-2-Clause', 'MPL-2.0']
         },
         {
             type: 'input',
@@ -56,9 +56,9 @@ const questions = [
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) => {
         if (err) {
-            console.log('error writing to file', err);
+            console.log('error writing to file');
         } else {
-            console.log(`File ${filename} has been written!`);
+            console.log(`Your README file has been written!`);
         }
     });
 }
