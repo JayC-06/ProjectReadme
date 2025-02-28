@@ -1,4 +1,4 @@
-# ja
+# read me generator
 ## Table Of Contents
 
 * [Installation](#installation)
@@ -18,24 +18,24 @@
 * [Questions](#questions)
 
 ## Description
-    ja
+    this make a readme file
 ## Installation
-    ja
+    requires node 
 ## Usage
-    ja
+    through terminal
 ## Contribution
-    ja
+    this project didnt require any contribution
 ## Tests
-    ja
+    testing now for project
 ## Email
-    ja
+    jay@gmail.com
 ## GitHub
-    ja
+    @ git hub
 
 ## Questions
-i have 
+none
   
 ## license 
 
-!License:(https://img.shields.io/badge/License-Apache_2.0-blue.svg)
-      (https://opensource.org/licenses/Apache-2.0)
+!License:(https://img.shields.io/badge/License-MIT-yellow.svg)
+      (https://opensource.org/licenses/MIT)

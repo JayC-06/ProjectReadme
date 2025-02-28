@@ -49,39 +49,32 @@ function generateMarkdown(data) {
   return `# ${data.title}
 ## Table Of Contents
 
-* [Installation](#installation)
-
-* [Description](#description)
-
-* [Usage](#usage)
-
-* [Contribution](#contribution)
-
-* [Tests](#tests)
-
-* [Email](#email)
-
-* [GitHub](#github)
-
-* [Questions](#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Email](#email)
+- [GitHub](#github)
+- [Questions](#questions)
 
 ## Description
-    ${data.description}
+${data.description}
 ## Installation
-    ${data.installation}
+${data.installation}
 ## Usage
-    ${data.usage}
+${data.usage}
 ## Contribution
-    ${data.contribution}
+${data.contribution}
 ## Tests
-    ${data.tests}
+${data.tests}
 ## Email
-    ${data.email}
+${data.email}
 ## GitHub
-    ${data.github}
+${data.github}
 
 ## Questions
-${data.questions}
+If there are any questions contact me at ${data.email} or visit my GitHub profile: [${data.github}](${data.questions})
   
 ## license 
 
