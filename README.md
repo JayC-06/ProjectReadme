@@ -1,41 +1,37 @@
-# ja
+# Project Readme Generator
 ## Table Of Contents
 
-* [Installation](#installation)
-
 * [Description](#description)
-
-* [Usage](#usage)
-
+* [Installation](#installation)
 * [Contribution](#contribution)
-
+* [Instructions](#instructions)
 * [Tests](#tests)
-
 * [Email](#email)
-
 * [GitHub](#github)
-
 * [Questions](#questions)
+* [License](#license)
 
 ## Description
-    ja
+    This is a read me generator.
 ## Installation
-    ja
-## Usage
-    ja
+    VS Code.
+    Node will be required to run this generator. 
 ## Contribution
-    ja
+    N/A
+## Instructions
+    Video Link: https://drive.google.com/file/d/1tFJRszEupGdjF0sMdFtPMZrCEHY_CEyG/preview
+    Open terminal in correct folder
+    Run Node index.js in the terminal
+    Answer each question accordingly.
+    Open Readme.md
 ## Tests
-    ja
+    Run in terminal.
 ## Email
-    ja
+    contreras.josh06@gmail.com
 ## GitHub
-    ja
-
+    Link - https://github.com/JayC-06/ProjectReadme.git
 ## Questions
-i have 
-  
+Please contact me with any questions or concerns. 
 ## license 
-
-!License:(https://img.shields.io/badge/License-Apache_2.0-blue.svg)
-      (https://opensource.org/licenses/Apache-2.0)
+License: MIT
+Link https://opensource.org/licenses/MIT

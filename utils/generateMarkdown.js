@@ -57,6 +57,7 @@ function generateMarkdown(data) {
 - [Email](#email)
 - [GitHub](#github)
 - [Questions](#questions)
+- [License](#license)
 
 ## Description
 ${data.description}
@@ -74,7 +75,7 @@ ${data.email}
 ${data.github}
 
 ## Questions
-If there are any questions contact me at ${data.email} or visit my GitHub profile: [${data.github}](${data.questions})
+If there are any questions contact me at ${data.email} or visit my GitHub profile: [${data.github}]
   
 ## license 
 
