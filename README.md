@@ -19,7 +19,7 @@
 ## Contribution
     N/A
 ## Instructions
-    Video Link: https://drive.google.com/file/d/1tFJRszEupGdjF0sMdFtPMZrCEHY_CEyG/preview
+    Video Link: https://drive.google.com/file/d/1uA8b4GRNwkw9HX-IMvErDUvK4Yxp8HFR/view?usp=sharing
     Open terminal in correct folder
     Run Node index.js in the terminal
     Answer each question accordingly.
